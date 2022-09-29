@@ -1,6 +1,6 @@
 # heatwaves-soil-analysis
 
-Code and figures for an analysis of soil temperatures during heatwaves at a few weather stations in Slovenia. Results were published in 
+Code and figures for an analysis of soil temperatures during heatwaves at a few weather stations in Slovenia. The results were published in 
 
 > T. Pogačar, L. Kafež Bogataj, R. Kuk, Z. Črepinšek (2022) Effects of heat waves on soil temperatures in Slovenia. Italian Journal of Agrometeorology (1): 41-48. doi: [10.36253/ijam-1388](https://doi.org/10.36253/ijam-1388)
 
