@@ -1,4 +1,4 @@
-# heatwaves-soil-analysis
+# Effects of heat waves on soil temperatures in Slovenia
 
 Code and figures for an analysis of soil temperatures during heatwaves at a few weather stations in Slovenia. The results were published in 
 
